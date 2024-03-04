@@ -47,9 +47,9 @@ Após realizar a análise com o SonarQube em um ambiente local, constatei que o 
 
 Nas questões identificadas, destacaram-se oportunidades de otimização, tais como ajustes nos modificadores de acesso e eliminação de variáveis não empregadas.
 
-![Questões Identificadas no SonarQube](./imgs/02.png)
+![Questões Identificadas no SonarQube](./assets/02.png)
 
 Adicionalmente, a análise apontou deficiências em aspectos de segurança, particularmente relacionadas a práticas de criptografia.
 
-![Pontos de Atenção em Segurança](./imgs/03.png)
+![Pontos de Atenção em Segurança](./assets/03.png)
 
