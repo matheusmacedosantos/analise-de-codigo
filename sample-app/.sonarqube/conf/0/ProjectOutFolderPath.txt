@@ -1,0 +1,1 @@
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/.sonarqube/out/0

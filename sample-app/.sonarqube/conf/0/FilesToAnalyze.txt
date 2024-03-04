@@ -1,0 +1,14 @@
+﻿/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/Controllers/SampleController.cs
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/Program.cs
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/SampleModel.cs
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/Startup.cs
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/obj/Debug/net5.0/SampleApp.AssemblyInfo.cs
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/obj/Debug/net5.0/SampleApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/appsettings.Development.json
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/appsettings.json
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/.gitignore
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/LICENSE
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/README.md
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/Properties/launchSettings.json
+/Users/marcelofeitoza/development/inteli/ponderada-s4-sonarqube/obj/Debug/net5.0/apphost
